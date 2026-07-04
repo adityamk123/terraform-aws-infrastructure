@@ -153,15 +153,7 @@ Planned improvements include:
 
 ---
 
-## Screenshots
 
-Screenshots demonstrating the infrastructure deployment will be added here.
-
-- Terraform Apply
-- AWS EC2 Instance
-- Amazon S3 Bucket
-- Remote State File
-- Terraform Outputs
 
 ---
 
@@ -169,12 +161,8 @@ Screenshots demonstrating the infrastructure deployment will be added here.
 
 **Aditya M Khiroji**
 
-GitHub: https://github.com/YOUR_GITHUB_USERNAME
 
-LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/
 
 ---
 
-## License
 
-This project is licensed under the MIT License.

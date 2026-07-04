@@ -151,18 +151,9 @@ Planned improvements include:
 - Docker Deployment Automation
 - GitOps Integration using Argo CD
 
----
 
-
-
----
 
 ## Author
 
 **Aditya M Khiroji**
-
-
-
----
-
 
